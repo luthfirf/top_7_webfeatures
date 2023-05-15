@@ -1,0 +1,2 @@
+
+File System Access API (sebelumnya dikenal sebagai Native File System API dan sebelumnya disebut Writeable Files API) memungkinkan pengembang membangun aplikasi web canggih yang berinteraksi dengan file di perangkat lokal pengguna, seperti IDE, editor foto dan video, editor teks, dan lainnya. Setelah pengguna memberikan akses aplikasi web, API ini memungkinkan mereka membaca atau menyimpan perubahan langsung ke file dan folder di perangkat pengguna. Selain membaca dan menulis file, File System Access API menyediakan kemampuan untuk membuka direktori dan menghitung isinya.

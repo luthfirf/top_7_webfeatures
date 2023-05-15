@@ -1,0 +1,8 @@
+
+API Deteksi Idle Google Chrome memberi tahu pengembang web saat pengguna menganggur. Misalnya, API mengirimkan notifikasi ke developer saat:
+
+1. Tidak ada interaksi dengan layar, mouse atau keyboard.
+2. Screensaver diaktifkan.
+3. Layar terkunci, atau saat pengguna berpindah ke layar lain.
+
+Sederhananya, Idle Detection API akan memberi tahu pengembang saat Anda tidak lagi berinteraksi dengan layar. Ini mendeteksi ketika pengguna menganggur, yang menimbulkan sejumlah masalah privasi.
